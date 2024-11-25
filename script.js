@@ -10,7 +10,7 @@ let objetos = [
 ];
 
 const jugadorImg = new Image();
-jugadorImg.src = "./JUEGO.PNG"; 
+jugadorImg.src = "./JUEGO.png"; 
 
 
 let x = 0,
